@@ -13,7 +13,7 @@
 
 <br><br>
 
-<p align="center">
+
 ## <b> My Skills!</b>
 <br>
   <p align="left">
@@ -65,8 +65,7 @@
 
 -----
 
-<br>
-<br>
+
 
 ## <b> Let's Connect..!</b>
 <br>
