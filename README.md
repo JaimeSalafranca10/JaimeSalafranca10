@@ -11,7 +11,8 @@
 🚀 Passionate about technology and exploring the finance world<br>
 🎓 Currently studying at Universidad Carlos III de Madrid<br>
 🌍 Enthusiastic about learning new cultures and fluent in French, English, Spanish, and German<br>
-💼 Open to internship or job opportunities — here’s my resume
+💼 Open to internship or job opportunities** — [Here’s my resume](https://github.com/yourusername/your-repository-name/blob/main/resume.pdf)
+
 
 <br><br>
 
