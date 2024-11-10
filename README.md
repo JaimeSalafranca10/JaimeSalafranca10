@@ -11,7 +11,7 @@
 🚀 Passionate about technology and exploring the finance world<br>
 🎓 Currently studying at Universidad Carlos III de Madrid<br>
 🌍 Enthusiastic about learning new cultures and fluent in French, English, Spanish, and German<br>
-💼 Open to internship or job opportunities** — [Here’s my resume](https://github.com/JaimeSalafranca10/cv_jaime_salafranca.pdf)
+💼 Open to internship or job opportunities** — [Here’s my resume](https://github.com/JaimeSalafranca10/JaimeSalafranca10/cv_jaime_salafranca.pdf)
 
 
 <br><br>
